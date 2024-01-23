@@ -1,9 +1,8 @@
 # как использовать модуль maths
 1. скачайте файл [maths.h](https://github.com/makarova1507ana/11-1/blob/tasks/maths.h)
 2. подключите файл maths.h
-**Пример:**
+###**Пример:**
 ![image](https://github.com/makarova1507ana/11-1/assets/103330304/d2ba8156-54e9-4f5b-a3f3-880f41525e31)
-
 #include <maths.h>
 
 # Сандарты кодирования
